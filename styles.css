@@ -1,0 +1,52 @@
+/* styles.css */
+@font-face {
+    font-family: DreamOrphans;
+    src: url(fonts/Dream\ Orphans.otf);
+  }
+  
+  div {
+    font-family: DreamOrphans;
+  }
+/* Set the background color for the entire page */
+ body {
+    background-color: #b388eb;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+/* Style headings */
+h1, h2, h3 {
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Style paragraphs */
+p {
+    color: #fff;
+}
+
+/* Style links */
+a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+/*
+a:hover {
+    font-weight: bolder;
+    color: #b388eb;
+ }
+*/
+/* Style navigation menus */
+.navbar {
+    background-color: #3c096c;
+    color: #fff;
+}
+.navbar-brand{
+    color: #fff;
+}
+.navbar-nav .nav-link {
+    color: #fff;
+}

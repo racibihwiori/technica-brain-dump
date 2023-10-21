@@ -1,11 +1,14 @@
 /* styles.css */
 @font-face {
+    
     font-family: DreamOrphans;
     src: url(fonts/Dream\ Orphans.otf);
+   
   }
   
   div {
     font-family: DreamOrphans;
+  
   }
 /* Set the background color for the entire page */
  body {
